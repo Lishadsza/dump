@@ -1,6 +1,0 @@
-SELECT 
-    COUNT(*) AS SALE_COUNT
-FROM 
-    Sale
-WHERE 
-    Sldate >= ADD_MONTHS(SYSDATE, -40);

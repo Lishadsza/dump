@@ -1,1 +1,0 @@
-select max(age) from emp;

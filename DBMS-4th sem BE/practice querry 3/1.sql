@@ -1,1 +1,0 @@
-select pname from live where city='mumbai';

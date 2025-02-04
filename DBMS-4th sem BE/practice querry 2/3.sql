@@ -1,1 +1,0 @@
-select gender, count(gender) from Emp group by gender;

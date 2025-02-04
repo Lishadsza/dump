@@ -1,1 +1,0 @@
-select * from cse_course;

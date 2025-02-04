@@ -1,2 +1,0 @@
-ALTER TABLE Supplier
-DROP COLUMN Emailid;

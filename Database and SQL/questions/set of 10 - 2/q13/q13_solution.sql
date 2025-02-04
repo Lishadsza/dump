@@ -1,1 +1,0 @@
-SELECT Distinct Category FROM Product;

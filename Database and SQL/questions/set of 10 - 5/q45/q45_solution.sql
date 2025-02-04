@@ -1,1 +1,0 @@
-insert into Article(ArcCode,ArName,Rate,Quantity,Class) values('A1002','Keyboard',1000,10,'B');

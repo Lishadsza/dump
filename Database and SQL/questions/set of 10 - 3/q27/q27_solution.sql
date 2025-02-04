@@ -1,2 +1,0 @@
-ALTER TABLE City
-DROP COLUMN City;

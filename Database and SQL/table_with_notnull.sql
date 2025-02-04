@@ -1,6 +1,0 @@
-CREATE TABLE Student 
-(
-    StudentId INTEGER CONSTRAINT Stud_SId_nn NOT NULL,
-    FName VARCHAR2(10) NOT NULL,
-    LName VARCHAR2(10)
-);

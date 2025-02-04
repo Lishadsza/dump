@@ -1,9 +1,0 @@
-CREATE TABLE Tournament
-(
-    Tid INTEGER PRIMARY KEY,
-    TName VARCHAR2(30) NOT NULL,
-    StartDt DATE NOT NULL,
-    EndDt DATE NOT NULL,
-    Prize INTEGER NOT NULL
-);
-    

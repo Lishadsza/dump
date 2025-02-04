@@ -1,1 +1,0 @@
-select salary from emp prder by salary asc;

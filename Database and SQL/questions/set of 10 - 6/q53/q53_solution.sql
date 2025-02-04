@@ -1,1 +1,0 @@
-delete from saledetail where saleid=1004;
